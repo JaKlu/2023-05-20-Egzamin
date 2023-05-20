@@ -36,6 +36,7 @@ public class Main {
         tree.add(76);
 
         System.out.println(tree.contains(152));
+        System.out.println(tree.contains(18));
         System.out.println(tree.min());
         System.out.println(tree.max());
 
